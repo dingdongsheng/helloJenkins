@@ -1,0 +1,17 @@
+{
+  "name": "helloJenkins",
+  "scripts": {
+  },
+  "env": {
+    "name": "test",
+    "address": "address-test"
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
